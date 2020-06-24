@@ -2,6 +2,7 @@ body{
   background-color: #A1B2C3;
 }
 hr{border-style: dashed;
+  border-size:3px;
 }
 h1{color: #074f75;}
 h2{color: #074f75;}
